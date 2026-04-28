@@ -1,0 +1,2 @@
+# arabic-manga-repo
+Arabic
